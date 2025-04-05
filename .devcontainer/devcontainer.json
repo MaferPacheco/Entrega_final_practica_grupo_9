@@ -8,7 +8,15 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"dbcode.dbcode"
+				"dbcode.dbcode",
+				"dbaeumer.vscode-eslint",                // ESLint
+				"ms-toolsai.jupyter",                    // Jupyter
+				"nbannier.jupyter-cell-tags",            // Jupyter Cell Tags
+				"ms-toolsai.jupyter-keymap",             // Jupyter Keymap
+				"ms-toolsai.jupyter-notebook-renderers", // Jupyter Notebook Renderers
+				"ms-toolsai.jupyter-slide-show",         // Jupyter Slide Show
+				"ms-python.pylance",                     // Pylance
+				"ms-python.python"                      // Python
 			]
 		}
 	}
