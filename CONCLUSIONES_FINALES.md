@@ -1,3 +1,20 @@
+# ENTREGA FINAL PRUEBA PRÁCTICA
+
+**Integrantes GRUPO 9**
+
+🔹Jonathan Alvarez 
+
+🔹Juan Arias
+
+🔹Fernanda Pacheco
+
+🔹Jairo Siza
+
+
+## CLASE 1: INTRODUCCIÓN A LAS APLICACIONES WEB, APIS, GIT, GITHUB Y CONTENEDORES. 
+
+Web, APIs, Git, GitHub y 
+Contenedores.
 
 *CLASE 1 .TRATAMIENTO DE DATOS*
 
@@ -13,7 +30,7 @@ Finalmente, se exploraron diversas herramientas de seguridad informática, tales
 
 En resumen, se abordaron conceptos fundamentales de tecnologías actuales como computación en la nube, virtualización, control de versiones, desarrollo web y ciberseguridad. Cada tema permitió conocer herramientas prácticas y buenas prácticas aplicables en entornos reales. Este aprendizaje integral fortalece las competencias necesarias para desarrollar, gestionar y proteger infraestructuras tecnológicas modernas, garantizando un mejor desempeño en el área de tecnología y ciberseguridad informática.
 
-*RESUMEN DE ACTIVIDADES CLASE 2 
+## CLASE 2: HERRAMIENTAS PARA ANÁLISIS DE DATOS. 
 
 
 En la segunda clase se abordaron diversos temas en el ámbito del análisis y gestión de datos, dando una visión sobre cómo extraer la información en diferentes etapas del proceso. Uno de los temas tratados fue la minería de datos, que se centra en descubrir patrones, relaciones y comportamientos ocultos dentro de grandes volúmenes de información. A través de técnicas como la clasificación, el agrupamiento y la detección de reglas de asociación. Se utilizaron herramientas y lenguajes como Python conjuntamente con bibliotecas.
@@ -32,7 +49,7 @@ En conclusión, la clase permitió adquirir una comprensión del ciclo completo 
 
 
 
-*RESUMEN DE ACTIVIDADES CLASE 3 
+## CLASE 3: HERRAMIENTAS PARA PRESENTACIÓN DE DATOS.
 
 Durante esta clase nos enfocamos en realizar un proceso completo de tratamiento de datos utilizando un archivo en formato CSV que contenía información sobre correos electrónicos, principalmente relacionados con posibles casos de phishing. El primer paso fue importar el dataset a nuestro entorno de trabajo. Para esto, fue necesario ajustar algunos detalles como el tipo de codificación y el separador del archivo, ya que no venía en el formato más común. Una vez que logramos cargar los datos correctamente, pudimos visualizar su estructura general y empezar a trabajar con ellos.
 
@@ -45,3 +62,18 @@ Con esa información, procedimos a crear visualizaciones gráficas para mostrar 
 Finalmente, como parte del ejercicio práctico, seleccionamos los primeros registros del dataset ya procesado y los insertamos en una base de datos PostgreSQL. Esta base se encontraba dentro de un entorno de desarrollo llamado devcontainer, que nos permitió simular un entorno profesional de trabajo. Esta última parte fue clave, ya que no solo nos enfocamos en el análisis, sino también en el almacenamiento de datos, como se hace normalmente en un proyecto real.
 
 En general, esta clase fue muy completa, ya que nos permitió aplicar distintas etapas del procesamiento de datos: desde la importación y limpieza, hasta la visualización y la integración con una base de datos. Todo esto nos ayudó a reforzar habilidades esenciales en el análisis de datos, utilizando herramientas modernas y buenas prácticas que se aplican en el mundo real.
+
+## Colaboradores de Clase1
+
+<a href="https://github.com/JonathanAlvarezW">
+  <img src="https://avatars.githubusercontent.com/u/203370867?v=4" width="100" height="100" style="border-radius: 50%; object-fit: cover;" />
+</a>
+<a href="https://github.com/Pirinolas">
+  <img src="https://avatars.githubusercontent.com/u/203370598?v=4" width="100" height="100" style="border-radius: 50%; object-fit: cover;" />
+</a>
+<a href="https://github.com/MaferPacheco">
+  <img src="https://avatars.githubusercontent.com/u/203370720?v=4" width="100" height="100" style="border-radius: 50%; object-fit: cover;" />
+</a>
+<a href="https://github.com/JoelSiza">
+  <img src="https://avatars.githubusercontent.com/u/203370601?v=4" width="100" height="100" style="border-radius: 50%; object-fit: cover;" />
+</a>
