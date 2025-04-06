@@ -13,6 +13,23 @@ Finalmente, se exploraron diversas herramientas de seguridad informática, tales
 
 En resumen, se abordaron conceptos fundamentales de tecnologías actuales como computación en la nube, virtualización, control de versiones, desarrollo web y ciberseguridad. Cada tema permitió conocer herramientas prácticas y buenas prácticas aplicables en entornos reales. Este aprendizaje integral fortalece las competencias necesarias para desarrollar, gestionar y proteger infraestructuras tecnológicas modernas, garantizando un mejor desempeño en el área de tecnología y ciberseguridad informática.
 
+*RESUMEN DE ACTIVIDADES CLASE 2 
+
+
+En la segunda clase se abordaron diversos temas en el ámbito del análisis y gestión de datos, dando una visión sobre cómo extraer la información en diferentes etapas del proceso. Uno de los temas tratados fue la minería de datos, que se centra en descubrir patrones, relaciones y comportamientos ocultos dentro de grandes volúmenes de información. A través de técnicas como la clasificación, el agrupamiento y la detección de reglas de asociación. Se utilizaron herramientas y lenguajes como Python conjuntamente con bibliotecas.
+
+
+Posteriormente, se estudió el tema de scraping de datos, una técnica utilizada para extraer información de páginas web de forma automática. Esta habilidad es particularmente útil cuando los datos no están disponibles en bases de datos estructuradas o en formatos descargables, se aprendió a desarrollar scripts en Python empleando librerías como BeautifulSoup para extraer contenido HTML, así como las buenas prácticas para evitar sobrecargar servidores o infringir los términos de uso de los sitios.
+
+
+Otro punto del curso a destacar fue el estudio de bases de datos, tanto relacionales como no relacionales. Se trabajó con sistemas gestores como MySQL, PostgreSQL y SQL Server, aprendiendo a diseñar bases de datos eficientes mediante modelos, normalización de datos y uso de claves primarias y foráneas para mantener la integridad referencial. También se dominó el uso del lenguaje SQL para realizar consultas, manipulación de datos. 
+
+
+Se exploraron los procesos ETL (Extract, Transform, Load), esenciales para la integración y preparación de datos provenientes de múltiples fuentes. Se aprendió a extraer información desde archivos, bases de datos, transformarla aplicando limpieza, normalización, validación y enriquecimiento, y luego cargarla en un repositorio central, como un data warehouse para el análisis. Estos procesos se implementaron tanto con herramientas como Python utilizando bibliotecas como Pandas.
+
+
+En conclusión, la clase permitió adquirir una comprensión del ciclo completo del manejo de datos, desde su obtención y almacenamiento hasta su análisis y transformación en información útil. La combinación de minería de datos, scraping, manejo de bases de datos y procesos ETL proporcionó un conjunto de habilidades técnicas y analíticas fundamentales para afrontar los retos actuales en la gestión de información, preparación de reportes, toma de decisiones y desarrollo de proyectos de ciencia de datos.
+
 
 
 *RESUMEN DE ACTIVIDADES CLASE 3 
