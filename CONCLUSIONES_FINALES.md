@@ -54,7 +54,7 @@ Finalmente, como parte del ejercicio práctico, seleccionamos los primeros regis
 En general, esta clase fue muy completa, ya que nos permitió aplicar distintas etapas del procesamiento de datos: desde la importación y limpieza, hasta la visualización y la integración con una base de datos. Todo esto nos ayudó a reforzar habilidades esenciales en el análisis de datos, utilizando herramientas modernas y buenas prácticas que se aplican en el mundo real.
 
 
-## Colaboradores de Clase1
+## COLABORADORES
 
 <a href="https://github.com/JonathanAlvarezW">
   <img src="https://avatars.githubusercontent.com/u/203370867?v=4" width="100" height="100" style="border-radius: 50%; object-fit: cover;" />
