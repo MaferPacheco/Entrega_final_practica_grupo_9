@@ -1,6 +1,6 @@
 # ENTREGA FINAL PRUEBA PRÁCTICA
 
-** INTEGRANTES GRUPO 9**
+**INTEGRANTES GRUPO 9**
 
 🔹Jonathan Alvarez 
 
