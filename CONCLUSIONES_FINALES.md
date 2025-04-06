@@ -13,3 +13,18 @@ Finalmente, se exploraron diversas herramientas de seguridad informática, tales
 
 En resumen, se abordaron conceptos fundamentales de tecnologías actuales como computación en la nube, virtualización, control de versiones, desarrollo web y ciberseguridad. Cada tema permitió conocer herramientas prácticas y buenas prácticas aplicables en entornos reales. Este aprendizaje integral fortalece las competencias necesarias para desarrollar, gestionar y proteger infraestructuras tecnológicas modernas, garantizando un mejor desempeño en el área de tecnología y ciberseguridad informática.
 
+
+
+*RESUMEN DE ACTIVIDADES CLASE 3 
+
+Durante esta clase nos enfocamos en realizar un proceso completo de tratamiento de datos utilizando un archivo en formato CSV que contenía información sobre correos electrónicos, principalmente relacionados con posibles casos de phishing. El primer paso fue importar el dataset a nuestro entorno de trabajo. Para esto, fue necesario ajustar algunos detalles como el tipo de codificación y el separador del archivo, ya que no venía en el formato más común. Una vez que logramos cargar los datos correctamente, pudimos visualizar su estructura general y empezar a trabajar con ellos.
+
+A continuación, llevamos a cabo un preprocesamiento de los datos. Este paso fue muy importante, ya que nos permitió limpiar el dataset para asegurarnos de que fuera consistente y útil para el análisis. Revisamos si existían valores nulos, errores en los formatos, y se corrigieron algunas columnas que no estaban bien estructuradas. También se organizaron mejor los campos para que reflejaran claramente la información que íbamos a estudiar, facilitando así el análisis posterior.
+
+Una vez que los datos estuvieron limpios, pasamos a explorarlos con más profundidad. Esto nos permitió conocer mejor su contenido, identificar características que se repetían y empezar a entender cómo se comportaban los distintos tipos de correos electrónicos. Gracias a esto, fue posible observar ciertos patrones que podrían estar relacionados con correos legítimos o con correos sospechosos de ser phishing.
+
+Con esa información, procedimos a crear visualizaciones gráficas para mostrar de forma clara y visual los resultados del análisis. Usamos gráficos de barras, histogramas, mapas de calor, entre otros, para representar diferentes aspectos del dataset. Estas visualizaciones nos ayudaron a detectar relaciones entre las variables y a comunicar mejor nuestros hallazgos.
+
+Finalmente, como parte del ejercicio práctico, seleccionamos los primeros registros del dataset ya procesado y los insertamos en una base de datos PostgreSQL. Esta base se encontraba dentro de un entorno de desarrollo llamado devcontainer, que nos permitió simular un entorno profesional de trabajo. Esta última parte fue clave, ya que no solo nos enfocamos en el análisis, sino también en el almacenamiento de datos, como se hace normalmente en un proyecto real.
+
+En general, esta clase fue muy completa, ya que nos permitió aplicar distintas etapas del procesamiento de datos: desde la importación y limpieza, hasta la visualización y la integración con una base de datos. Todo esto nos ayudó a reforzar habilidades esenciales en el análisis de datos, utilizando herramientas modernas y buenas prácticas que se aplican en el mundo real.
